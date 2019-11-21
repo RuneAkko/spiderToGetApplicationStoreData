@@ -1,0 +1,2 @@
+# spiderToGetApplicationStoreData
+基于Scrapy框架爬取公开合法的应用商店信息
